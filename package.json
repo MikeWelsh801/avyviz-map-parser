@@ -1,0 +1,15 @@
+{
+  "name": "map_parser",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geotiff": "^2.1.0"
+  }
+}
