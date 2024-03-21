@@ -1,4 +1,6 @@
-# Map Parser
+# Map Parser for Avyviz
+
+* see [Avyviz](https://github.com/MikeWelsh801/avyviz) for main project repo
 
 This project contains the code needed to parse and build json tiles for Utah map
 regions. The files will be built localy and uploaded to our CDN, where users of 
